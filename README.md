@@ -17,15 +17,13 @@
 
 <!--Gif-->
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+✔ I’m currently learning about deep learning and <br>
+✔ Fun fact : *I Always try to learn something new in my free time*<br>
+✔ I am looking for my first work experience<br>
+✔ I would love to be part of a team developing new software<br><br><br>
 
 
-<!--Skills-->
+<!--Skills Gif-->
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <!--tech stack icons-->
 <p align="center">
@@ -33,3 +31,13 @@
     <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,postgres,github,html,linux,mongodb,mysql,py,vscode" />
   </a>
 </p>
+<hr width="60%" >
+<br><br>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=645700N&show_icons=true&theme=dark&locale=en" alt="645700N" /></p>
+
+<br><br><br><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=645700N&theme=dark" alt="645700N" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<hr width="60%" >
