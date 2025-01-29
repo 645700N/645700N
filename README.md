@@ -1,6 +1,7 @@
-<h1 align="center">Hi , I'm Gaston <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+[![Software-Enginer.png](https://i.postimg.cc/J7PkCgtn/Software-Enginer.png)](https://postimg.cc/3W0RgtX5)
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Data+Scientists;Machine+Learning;Student+in+Information+Systems;"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Data+Scientists;Machine+Learning;Student+in+Information+Systems&font=Pacifico&center=true&width=650&height=120&color==%23C8BE25&vCenter=true&size=45%22"></a>
 </p>
 
 <p align="center">
